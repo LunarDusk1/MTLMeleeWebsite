@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a30ef1f5-1e68-428b-890e-06668676c645/resourceGroups/web-mtlmelee-001/providers/Microsoft.Web/sites/MontrealMelee",
+    "appService.deploySubpath": "."
+}
